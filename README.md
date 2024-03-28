@@ -1,5 +1,4 @@
-**Simple Cat App** 🐱
-
+**Simple Cat Photo App** 🐱
 
 First Lesson Project from FCC
 Made using HTML
