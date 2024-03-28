@@ -1,4 +1,4 @@
-**Simple Cat App**
+**Simple Cat App** 🐱
 
 
 First Lesson Project from FCC
